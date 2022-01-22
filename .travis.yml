@@ -38,3 +38,4 @@ notifications:
     template:
       - "[%{repository_name} %{branch}] %{message} #%{build_number} %{build_url}"
       - "[%{repository_name} %{branch}] %{commit_message} (%{commit} by %{author}) %{compare_url}"
+deez nuts
